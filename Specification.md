@@ -1,7 +1,7 @@
 ﻿# Техническое задание на вёрстку
 
 * Название сайта: Седона
-* Домен: [Sedona](poohthewinnie.github.io/sedona)
+* Домен: [Sedona](https://poohthewinnie.github.io/sedona/)
 
 ---
 
